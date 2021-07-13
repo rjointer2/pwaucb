@@ -26,7 +26,7 @@ After install, use `node server.js
 
 Feel free to add or reference!
 
-![screenshot](images/Screenshot1.png)
+![screenshot](images/picture.png)
 
 
 ## License
