@@ -20,9 +20,13 @@ npm i <-- Gets all packages *USE AT ROOT FOLDER*
 
 Able to save transcations online and offline with service worker
 
+After install, use `node server.js
+
 ## Contribute?
 
 Feel free to add or reference!
+
+![screenshot](images/Screenshot1.png)
 
 
 ## License
